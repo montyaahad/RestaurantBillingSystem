@@ -1,0 +1,276 @@
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.exe.config
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Support.Messages.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseAddEdit.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseGrid.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseSaveClose.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Forms.FormMain.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Forms.FormContainer.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Properties.Resources.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditFloor.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcFloorManagement.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcPropertyInformation.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.exe.licenses
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.exe
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.pdb
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Service.dll
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\VIT.DataLogicLayer.dll
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Service.pdb
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.exe
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.pdb
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.exe.config
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.exe
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.pdb
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.exe
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.pdb
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\ComponentFactory.Krypton.Ribbon.dll
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Service.dll
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\VIT.DataLogicLayer.dll
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Service.pdb
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Support.Messages.resources
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseAddEdit.resources
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseGrid.resources
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseSaveClose.resources
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Forms.FormMain.resources
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Forms.FormContainer.resources
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Properties.Resources.resources
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditFloor.resources
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcFloorManagement.resources
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcPropertyInformation.resources
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.exe.licenses
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.exe.config
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.exe
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.pdb
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\ComponentFactory.Krypton.Docking.dll
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Service.dll
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\VIT.DataLogicLayer.dll
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Service.pdb
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Support.Messages.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseAddEdit.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseGrid.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseSaveClose.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Forms.FormMain.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Forms.FormContainer.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Properties.Resources.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseAddEditWithImage.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetPackage.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetRequirement.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetSeating.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetTheme.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditFloor.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetPackage.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetRequirement.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetSeating.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetTheme.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcFloorManagement.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcProFormaInvoiceList.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcPropertyInformation.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcSearchProFormaInvoice.resources
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.exe.licenses
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.exe
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.pdb
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\ComponentFactory.Krypton.Docking.dll
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseAddEditWithImage.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetPackage.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetRequirement.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetSeating.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetTheme.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetPackage.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetRequirement.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetSeating.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetTheme.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcSearchProFormaInvoice.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetProFormaInvoiceList.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseTabedSaveClose.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetProFormaInvoice.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcCompanyInfo.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcGuestInfo.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaInfo.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaEventDateInfo.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaAccommodation.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaRequirementTran.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcTaxExempt.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaPackageTran.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetVoucher.resources
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcLocationInfo.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.exe.config
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.exe
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.pdb
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.exe
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.pdb
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\ComponentFactory.Krypton.Docking.dll
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Service.dll
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\VIT.DataLogicLayer.dll
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Service.pdb
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Support.Messages.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseAddEdit.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseGrid.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseSaveClose.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Forms.FormMain.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Forms.FormContainer.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Properties.Resources.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseAddEditWithImage.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcCompanyInfo.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcGuestInfo.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcLocationInfo.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaAccommodation.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaEventDateInfo.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaInfo.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaPackageTran.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaRequirementTran.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcTaxExempt.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetProFormaInvoice.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetPackage.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetRequirement.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetSeating.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetTheme.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetVoucher.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditFloor.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseTabedSaveClose.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetPackage.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetRequirement.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetSeating.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetTheme.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcFloorManagement.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetProFormaInvoiceList.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcPropertyInformation.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcSearchProFormaInvoice.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.exe.licenses
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcGeneralInfo.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetCateringVoucher.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcBillingInfo.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcChargeInfo.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcPaymentInfo.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcMenuInfo.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcOtherRequirement.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcCateringInfo.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanqueiDiary.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SearchControls.UcSearchBanquetBooking.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcVenue.resources
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcMasters.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.exe.config
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.exe
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.pdb
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FrontDeskConfigurationWindows.csprojResolveAssemblyReference.cache
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Support.Messages.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseAddEdit.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseGrid.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseSaveClose.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Forms.FormMain.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Forms.FormContainer.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Properties.Resources.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseAddEditWithImage.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SearchControls.UcSearchBanquetBooking.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcBillingInfo.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcCateringInfo.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcChargeInfo.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcCompanyInfo.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcGeneralInfo.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcGuestInfo.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcLocationInfo.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcMenuInfo.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcOtherRequirement.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcPaymentInfo.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaAccommodation.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaEventDateInfo.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaInfo.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaPackageTran.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaRequirementTran.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcTaxExempt.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcVenue.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetCateringVoucher.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetProFormaInvoice.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetPackage.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetRequirement.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetSeating.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetTheme.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetVoucher.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditFloor.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseTabedSaveClose.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanqueiDiary.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetPackage.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetRequirement.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetSeating.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetTheme.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcFloorManagement.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetProFormaInvoiceList.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcMasters.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcPropertyInformation.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcSearchProFormaInvoice.resources
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FrontDeskConfigurationWindows.csproj.GenerateResource.Cache
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.exe.licenses
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.exe
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.pdb
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\ComponentFactory.Krypton.Docking.dll
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Service.dll
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\VIT.DataLogicLayer.dll
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Service.pdb
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.exe.config
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.exe
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.pdb
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.exe
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Windows.pdb
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\ComponentFactory.Krypton.Docking.dll
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Service.dll
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\VIT.DataLogicLayer.dll
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\FD.Service.pdb
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FrontDeskConfigurationWindows.csprojResolveAssemblyReference.cache
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Support.Messages.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseAddEdit.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseGrid.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseSaveClose.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Forms.FormMain.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Forms.FormContainer.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.Properties.Resources.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseUserControls.BaseAddEditWithImage.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SearchControls.UcSearchBanquetBooking.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcBillingInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcCateringInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcChargeInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcCompanyInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcGeneralInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcGuestInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcLocationInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcMenuInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcOtherRequirement.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcPaymentInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaAccommodation.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaEventDateInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaPackageTran.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcProFormaRequirementTran.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcTaxExempt.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.SubControls.UcVenue.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetCateringVoucher.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetProFormaInvoice.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetPackage.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetRequirement.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetSeating.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetTheme.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditBanquetVoucher.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcAddEditFloor.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.BaseTabedSaveClose.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanqueiDiary.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetPackage.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetRequirement.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetSeating.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetTheme.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcFloorManagement.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcBanquetProFormaInvoiceList.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcMasters.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcPropertyInformation.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\Windows.UserControls.UcSearchProFormaInvoice.resources
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FrontDeskConfigurationWindows.csproj.GenerateResource.Cache
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\obj\x86\Debug\FD.Windows.exe.licenses
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfiguration\bin\x86\Debug\Restaurant.Windows.exe.config

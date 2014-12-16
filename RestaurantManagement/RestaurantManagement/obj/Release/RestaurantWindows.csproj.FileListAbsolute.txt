@@ -1,0 +1,81 @@
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\bin\Release\Restaurant.Windows.exe.config
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\bin\Release\Restaurant.Windows.exe
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\bin\Release\Restaurant.Windows.pdb
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\bin\Release\ComponentFactory.Krypton.Docking.dll
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\bin\Release\Restaurant.Service.dll
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\bin\Release\VIT.DataLogicLayer.dll
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\bin\Release\Restaurant.Service.pdb
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\RestaurantWindows.csprojResolveAssemblyReference.cache
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.Forms.FormLogin.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.Forms.FormReport.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.Support.Messages.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.BaseUserControls.BaseAddEdit.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.BaseUserControls.BaseGrid.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.BaseUserControls.BaseSaveClose.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.Forms.FormMain.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.Forms.FormContainer.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.Properties.Resources.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.BaseUserControls.BaseAddEditWithImage.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.SearchControls.UcSearchBanquetBooking.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.SubControls.UcCateringInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.SubControls.UcCompanyInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.SubControls.UcMenuInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.SubControls.UcPaymentInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.SubControls.UcTaxExempt.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.SubControls.UcVenue.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcAbout.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcAddEditBillInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.BaseTabedSaveClose.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcAddEditMenuCategory.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcAddEditMenuItem.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcMasters.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcMenuCategory.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcMenuItems.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcBillInfo.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcSearchProFormaInvoice.resources
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\RestaurantWindows.csproj.GenerateResource.Cache
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Restaurant.Windows.exe.licenses
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Restaurant.Windows.exe
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagement\obj\Release\Restaurant.Windows.pdb
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\bin\Release\Restaurant.Windows.exe.config
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Restaurant.Windows.exe
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Restaurant.Windows.pdb
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\bin\Release\Restaurant.Windows.exe
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\bin\Release\Restaurant.Windows.pdb
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\bin\Release\ComponentFactory.Krypton.Docking.dll
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\bin\Release\Restaurant.Service.dll
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\bin\Release\VIT.DataLogicLayer.dll
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\bin\Release\Restaurant.Service.pdb
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\RestaurantWindows.csprojResolveAssemblyReference.cache
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.Forms.FormLogin.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.Forms.FormReport.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.Support.Messages.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.BaseUserControls.BaseAddEdit.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.BaseUserControls.BaseGrid.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.BaseUserControls.BaseSaveClose.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.Forms.FormMain.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.Forms.FormContainer.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.Properties.Resources.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.BaseUserControls.BaseAddEditWithImage.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.SearchControls.UcSearchBanquetBooking.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.SubControls.UcCateringInfo.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.SubControls.UcCompanyInfo.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.SubControls.UcMenuInfo.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.SubControls.UcPaymentInfo.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.SubControls.UcTaxExempt.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.SubControls.UcVenue.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcAbout.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcAddEditBillInfo.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.BaseTabedSaveClose.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcAddEditMenuCategory.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcAddEditMenuItem.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcMasters.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcMenuCategory.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcMenuItems.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcBillInfo.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcSearchProFormaInvoice.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\RestaurantWindows.csproj.GenerateResource.Cache
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Restaurant.Windows.exe.licenses
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcDayClose.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcReportSalesDetails.resources
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagement\obj\Release\Windows.UserControls.UcReportItemWiseSales.resources

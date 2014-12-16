@@ -1,0 +1,11 @@
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagementService\bin\Release\Restaurant.Service.dll
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagementService\bin\Release\Restaurant.Service.pdb
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagementService\bin\Release\VIT.DataLogicLayer.dll
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagementService\obj\Release\Restaurant.Service.dll
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagementService\obj\Release\Restaurant.Service.pdb
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagementService\bin\Release\Restaurant.Service.dll
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagementService\bin\Release\Restaurant.Service.pdb
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagementService\bin\Release\VIT.DataLogicLayer.dll
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagementService\obj\Release\Restaurant.Service.dll
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagementService\obj\Release\Restaurant.Service.pdb
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagementService\obj\Release\RestaurantService.csprojResolveAssemblyReference.cache

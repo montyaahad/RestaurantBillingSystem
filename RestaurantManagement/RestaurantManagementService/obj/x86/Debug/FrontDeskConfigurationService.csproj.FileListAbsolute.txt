@@ -1,0 +1,30 @@
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\FD.Service.dll
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\FD.Service.pdb
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\VIT.DataLogicLayer.dll
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\FD.Service.dll
+E:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\FD.Service.pdb
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\FD.Service.dll
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\FD.Service.pdb
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\VIT.DataLogicLayer.dll
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\FD.Service.dll
+C:\Users\abdul.ahad.DIMIKIT\Desktop\NEO\Vintage IT\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\FD.Service.pdb
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\FD.Service.dll
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\FD.Service.pdb
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\VIT.DataLogicLayer.dll
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\FD.Service.dll
+F:\Vintage IT\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\FD.Service.pdb
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\FD.Service.dll
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\FD.Service.pdb
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\VIT.DataLogicLayer.dll
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\FD.Service.dll
+D:\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\FD.Service.pdb
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\FD.Service.dll
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\FD.Service.pdb
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\VIT.DataLogicLayer.dll
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\FrontDeskConfigurationService.csprojResolveAssemblyReference.cache
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\FD.Service.dll
+E:\Faisal Vai\Vintage IT\updated\FrontDeskConfiguration\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\FD.Service.pdb

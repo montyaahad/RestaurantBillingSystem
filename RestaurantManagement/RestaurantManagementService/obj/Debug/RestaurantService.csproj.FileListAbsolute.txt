@@ -1,0 +1,8 @@
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagementService\bin\Debug\Restaurant.Service.dll
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagementService\bin\Debug\Restaurant.Service.pdb
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagementService\obj\Debug\Restaurant.Service.dll
+E:\Faisal Vai\Restaurant\Phase 1\RestaurantManagement\RestaurantManagementService\obj\Debug\Restaurant.Service.pdb
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagementService\bin\Debug\Restaurant.Service.dll
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagementService\bin\Debug\Restaurant.Service.pdb
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagementService\obj\Debug\Restaurant.Service.dll
+E:\FaisalVai\Restaurant\Phase1\RestaurantManagement\RestaurantManagementService\obj\Debug\Restaurant.Service.pdb

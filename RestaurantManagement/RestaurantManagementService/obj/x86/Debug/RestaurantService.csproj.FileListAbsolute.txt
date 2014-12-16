@@ -1,0 +1,6 @@
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\Restaurant.Service.dll
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\Restaurant.Service.pdb
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfigurationService\bin\x86\Debug\VIT.DataLogicLayer.dll
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\RestaurantService.csprojResolveAssemblyReference.cache
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\Restaurant.Service.dll
+E:\Faisal Vai\Restaurant\Phase 1\FrontDeskConfiguration\FrontDeskConfigurationService\obj\x86\Debug\Restaurant.Service.pdb
