@@ -1,5 +1,11 @@
-RestaurantBillingSystem
-=======================
+Restaurant Billing System
+=========================
+
+Technologies used - 
+* C#, .NET 4
+* Krypton
+* Crystal Report
+* MS SQL 2008
 
 Restaurant Management System with following features - 
 
