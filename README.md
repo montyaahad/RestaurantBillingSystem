@@ -2,7 +2,7 @@ Restaurant Billing System
 =========================
 
 Technologies used - 
-* C#, .NET 4
+* C#, .NET 4, Windows Form
 * Krypton
 * Crystal Report
 * MS SQL 2008
@@ -14,7 +14,7 @@ Restaurant Management System with following features -
 * Waiter List add/edit
 * Static Table List
 * Billing System
-* Invoice Generate
+* Invoice Generation
 * Service Charge, VAT, Discount option
 * Day Closing System
 * Database Backup
