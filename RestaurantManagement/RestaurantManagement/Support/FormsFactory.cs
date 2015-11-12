@@ -18,8 +18,6 @@ namespace Windows.Support
             Forms = new Dictionary<string, Type>
                 {
                     //Child forms
-                    
-
                     {"MenuCategory",typeof(UcMenuCategory)},
                     {"MenuItems",typeof(UcMenuItems)},
                     {"AllBills",typeof(UcBillInfo)},
@@ -27,8 +25,6 @@ namespace Windows.Support
                     {"DayClose",typeof(UcDayClose)},
 
                     //ADD EDIT Form
-
-
                     {"AddEditMenuCategory",typeof(UcAddEditMenuCategory)},
                     {"AddEditMenuItem",typeof(UcAddEditMenuItem)},
                     {"NewBill",typeof(UcAddEditBillInfo)},
